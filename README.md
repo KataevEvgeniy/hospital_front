@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Симуляция работы больницы
+### Первый экран приложения на котором можно зарегистрировать пациента
+![](public/screen_1.png)
+### Второй экран приложения на котором можно госпитализировать пациента
+![](public/screen_2.png)
+### Третий экран приложения на котором можно посмотреть текущее расположение врачей и пациентов по кабинетам
+![](public/screen_3.png)
+### Четвертый экран приложения на котором можно посмотреть расположение госпитализированных по койкам
+![](public/screen_4.png)
